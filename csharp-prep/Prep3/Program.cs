@@ -25,6 +25,8 @@ class Program
         {
             Console.Write("What is your guess? ");
             guess = int.Parse(Console.ReadLine());
+
+            //Count the number of tries
             tries ++;
 
             if (guess > magic)
