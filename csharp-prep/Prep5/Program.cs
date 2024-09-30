@@ -17,7 +17,7 @@ class Program
         DisplayResult(userName, squared);
 
     }
-    //Test programs
+    //Test programsjob
     static void DisplayWelcome()
     {
         Console.WriteLine("Welcome to the program!");
